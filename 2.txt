@@ -1,5 +1,0 @@
-this is file 2. txt for branch master
-
-it is also present in new branch
-
-but this file is deleted from the remote repository
