@@ -1,1 +1,3 @@
 this is version 1 of branch master
+
+it is also present in new branch
